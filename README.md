@@ -8,7 +8,7 @@ The system processes user queries via an embedding model, converting text and da
 
 
 <div align="center">
-    <img src="assets/sys.png"/></br>
+    <img src="assets/syss.png"/></br>
     <figcaption>AI-powered Margin prediction analysis</figcaption>
 </div>
 
