@@ -1,6 +1,6 @@
 # LLM-FinanceSys Analysizer Outcomes Margine Projects 
 
-Investment projects rely on seasonal data, tied to specific months and exhibiting periodic traits. Key Performance Indicators (KPIs) like **Original Gross Margin**' **Actual Gross Margin** and **EAC Cost Margin** are pivotal. Accessing financial data is vital to understand investment strategies, assess risks, and determine project costs based on KPIs and project timelines. Conventional chatbots offer limited choices, lacking real-time analysis capabilities. Leveraging Large Language Models (LLMs), such as AI-powered chatbots, eliminates the need for standalone tools. They provide dynamic analysis integrated with tailored dashboards, transforming investment **decision-making of Cost margrin**
+Investment projects rely on seasonal data, tied to specific months and exhibiting periodic traits. Key Performance Indicators (KPIs) like **Original Gross Margin**' **Actual Gross Margin** and **EAC Cost Margin** are pivotal. Accessing financial data is vital to understand investment strategies, assess risks, and determine project costs based on KPIs and project timelines. Conventional chatbots offer limited choices, lacking real-time analysis capabilities. Leveraging Large Language Models (LLMs), such as AI-powered chatbots, eliminates the need for standalone tools. They provide dynamic analysis integrated with tailored dashboards, transforming investment **decision-making of Cost margrin Financial Prediction KPI**
 
 
 ### LLM-RAG-Modeling-System
@@ -66,7 +66,7 @@ The diagram below  depicts a Retrieval Augmented Generation (RAG) sequence diagr
 * **Goal:** Develop a user interface (UI) that allows users to interact with the LLM model. 
 * **Explanation:**  In this step, we'll design a user interface where users can submit queries and receive responses from the LLM. This could be a chatbot interface similar to OpenChat or Chauit, or another type of interface that is best suited for the Projects Colab Platform's needs.
 
-##  AI-powered Incident Anticipation and Proactive Problem-Solving System - Tech Stack (Detailed)
+##  AI-powered decision-making of Cost margrin Financial Prediction KPI - Tech Stack
 
 This section details the chosen technology stack for each development step of the AI system, with explanations for each component:
 
@@ -75,7 +75,7 @@ This section details the chosen technology stack for each development step of th
 * **Technology:** Hugging Face Ecosystem with PyTorch for model manipulation
 * **Explanation:** We will leverage the Hugging Face ecosystem, a popular open-source community for natural language processing (NLP). This ecosystem provides access to various pre-trained LLMs and tools for working with them. PyTorch, a deep learning framework, will be used for model manipulation and fine-tuning.
 * **Options:**
-    * **Ollma (Opt-In):** Ollma ([https://github.com/ollama/ollama](https://github.com/ollama/ollama)) is a library built on top of Hugging Face Transformers that offers functionalities for efficient inference and deployment of large language models. It can be used for model optimization and potentially improve local inference speed.
+    * **Ollma:** Ollma ([https://github.com/ollama/ollama](https://github.com/ollama/ollama)) is a library built on top of Hugging Face Transformers that offers functionalities for efficient inference and deployment of large language models. It can be used for model optimization and potentially improve local inference speed.
     * **LlamaCPP (Optional):** LlamaCPP ([https://github.com/ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp)) offers C++ implementations of various pre-trained LLMs. While this might require more development effort for integration, it could lead to significant performance improvements on compatible hardware.
 
 **Step 2: LLM Fine-Tuning**
@@ -83,8 +83,8 @@ This section details the chosen technology stack for each development step of th
 * **Technology:** Deep Learning Framework (TensorFlow or PyTorch) with Data Preprocessing Libraries (pandas, NumPy)
 * **Explanation:** We will utilize either TensorFlow or PyTorch, popular deep learning frameworks, for fine-tuning the chosen LLM on the Projects Colab Platform's incident data. Pandas and NumPy libraries will be used for data cleaning, manipulation, and feature engineering to prepare the data for fine-tuning.
 * **Options:**
-    * **PEFT (Prototype Engineering for Fine-Tuning):** PEFT ([https://huggingface.co/docs/peft/en/index](https://huggingface.co/docs/peft/en/index)) is a library within the Hugging Face ecosystem specifically designed to simplify the fine-tuning process for various NLP models.
-    * **LoRa (Low-Rank Adapters):** LoRa ([https://huggingface.co/docs/diffusers/en/training/lora](https://huggingface.co/docs/diffusers/en/training/lora)) is a technique for fine-tuning large language models with minimal additional parameters. This can be beneficial if computational resources are limited.
+    * **PEFT  (Optional) (Prototype Engineering for Fine-Tuning):** PEFT ([https://huggingface.co/docs/peft/en/index](https://huggingface.co/docs/peft/en/index)) is a library within the Hugging Face ecosystem specifically designed to simplify the fine-tuning process for various NLP models.
+    * **LoRa  (Optional) (Low-Rank Adapters):** LoRa ([https://huggingface.co/docs/diffusers/en/training/lora](https://huggingface.co/docs/diffusers/en/training/lora)) is a technique for fine-tuning large language models with minimal additional parameters. This can be beneficial if computational resources are limited.
 
 **Step 3: RAG System Pipeline and Vector Database Selection**
 
