@@ -1,0 +1,31 @@
+,objectid,description,codetypename,projectobjectid
+0,13373,Basic Design,PHASE,4829
+1,13374,Commissioning,PHASE,4829
+2,13375,Civil works,Discipline,4829
+3,13376,Structural parts,Discipline,4829
+4,13377,Terminal Station,Zone,4829
+5,13378,PMS & VS,Zone,4829
+6,13379,Water Loop,Package,4829
+7,13380,Transfer Line,Package,4829
+8,13381,Detailed Design,PHASE,4829
+9,13382,Procurement,PHASE,4829
+10,13383,Construction,PHASE,4829
+11,13384,Fire Protection,Package,4829
+12,13385,Access Upgrade,Package,4829
+13,13386,WEIR,Contractor,4829
+14,13387,Mechanical parts,Discipline,4829
+15,13388,Piping,Discipline,4829
+16,13389,Electrical works,Discipline,4829
+17,13390,Instrumentation,Discipline,4829
+18,13391,Fire protection,Discipline,4829
+19,13392,Video Surveillance System,Discipline,4829
+20,13393,Head Station,Zone,4829
+21,13394,Beni Amir,Zone,4829
+22,13395,Daoui,Zone,4829
+23,13396,Video Surveillance,Package,4829
+24,13397,CENTRELEC,Contractor,4829
+25,13398,JESA,Contractor,4829
+26,13399,Silica Line,Package,4829
+27,13400,Additional Tanks,Package,4829
+28,13401,FLOWROX,Contractor,4829
+29,13402,STROC,Contractor,4829

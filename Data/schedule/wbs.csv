@@ -1,0 +1,130 @@
+,objectid,projectobjectid,obsobjectid,status,code,name,parentobjectid,originalbudget,anticipatedstartdate,anticipatedfinishdate,sumactivitycount
+0,27810,4829,1636,Active,Q2191-BL,Flexibility pipeline Baseline,3660594,0.0,,,477.0
+1,27811,4829,1636,Active,CS,COMMISSIONING,27810,0.0,,,38.0
+2,27812,4829,1636,Active,CN,CONSTRUCTION,27810,0.0,,,123.0
+3,27813,4829,1636,Active,PR,CONTRACTS / PROCUREMENT,27810,0.0,,,122.0
+4,27814,4829,1636,Active,ML,PROJECT KEY MILESTONES,27810,0.0,,,24.0
+5,27815,4829,1636,Active,DD,ENGINEERING,27810,0.0,,,64.0
+6,27816,4829,1636,Active,1,PROCUREMENT - POST AWARD,27810,0.0,,,67.0
+7,27817,4829,1636,Active,WL,COM- Pipe Loop for Flash Water,27811,0.0,,,3.0
+8,27818,4829,1636,Active,SL,PRC - Silica Line,27813,0.0,,,7.0
+9,27819,4829,1636,Active,TF,COM- Slurry Transfert - DWS to local Tanks,27811,0.0,,,5.0
+10,27820,4829,1636,Active,1,COM- Silica Line,27811,0.0,,,3.0
+11,27821,4829,1636,Active,TF,MLS- Slurry Transfert - DWS to local Tanks,27814,0.0,,,2.0
+12,27822,4829,1636,Active,TF,PRC- Slurry Transfert - DWS to local Tanks,27816,0.0,,,27.0
+13,27823,4829,1636,Active,CM,"CONS- General (VDS, Fire Protection, Access Upgrade)",27812,0.0,,,17.0
+14,27824,4829,1636,Active,TK,"COM- Additional Storage Tanks (TS, HS, BA)",27811,0.0,,,21.0
+15,27825,4829,1636,Active,TF,PRC- Slurry Transfert - DWS to local Tanks,27813,0.0,,,28.0
+16,27826,4829,1636,Active,SL,PRC - Silica Line,27816,0.0,,,3.0
+17,27827,4829,1636,Active,CM,"ENG- Common (VDS, Fire Protection, Access Upgrade)",27815,0.0,,,4.0
+18,27828,4829,1636,Active,CM,"PRC - General (VDS, Fire Protection, Access Upgrade)",27816,0.0,,,6.0
+19,27829,4829,1636,Active,TF,ENG- Slurry Transfert - DWS to local Tanks,27815,0.0,,,11.0
+20,27830,4829,1636,Active,WL,PRC- Pipe Loop for Flash Water,27813,0.0,,,20.0
+21,27831,4829,1636,Active,TK,"ENG- Additional Storage Tanks (TS, HS, BA)",27815,0.0,,,43.0
+22,27832,4829,1636,Active,CM,"PRC - General (VDS, Fire Protection, Access Upgrade)",27813,0.0,,,12.0
+23,27833,4829,1636,Active,WL,ENG- Pipe Loop for Flash Water,27815,0.0,,,3.0
+24,27834,4829,1636,Active,CM,"COM- General (VDS, Fire Protection, Acess Upgrade)",27811,0.0,,,6.0
+25,27835,4829,1636,Active,1,ENG - Silica Line,27815,0.0,,,3.0
+26,27836,4829,1636,Active,TK,"CONS- Additional Storage Tanks (TS, HS, BA)",27812,0.0,,,68.0
+27,27837,4829,1636,Active,TK,"PRC- Additional Storage Tanks (TS, HS, BA)",27813,0.0,,,55.0
+28,27838,4829,1636,Active,TK,"MLS- Additional Storage Tanks (TS, HS, BA)",27814,0.0,,,12.0
+29,27839,4829,1636,Active,CM,"MLS- Common (VDS, Fire Protection, Access Upgrade)",27814,0.0,,,8.0
+30,27840,4829,1636,Active,WL,MLS- Pipe Loop for Flash Water,27814,0.0,,,2.0
+31,27841,4829,1636,Active,TK,"PRC- Additional Storage Tanks (TS, HS, BA)",27816,0.0,,,25.0
+32,27842,4829,1636,Active,TF,CONS- Slurry Transfert - DWS to local Tanks,27812,0.0,,,20.0
+33,27843,4829,1636,Active,WL,CONS- Pipe Loop for Flash Water,27812,0.0,,,7.0
+34,27844,4829,1636,Active,SL,CONS- Silica Line,27812,0.0,,,11.0
+35,27845,4829,1636,Active,WL,PRC- Pipe Loop for Flash Water,27816,0.0,,,6.0
+36,27846,4829,1636,Active,EI,PRC- Electrical & Instruments,27837,0.0,,,15.0
+37,27847,4829,1636,Active,PM,PRC- Pumps,27825,0.0,,,11.0
+38,27848,4829,1636,Active,HS,Head Station,27824,0.0,,,8.0
+39,27849,4829,1636,Active,FP,ENG- Fire Protection,27827,0.0,,,2.0
+40,27850,4829,1636,Active,FP,PRC- Fire Protection,27828,0.0,,,4.0
+41,27851,4829,1636,Active,DL,Potential Issues for Delay TRANSFERT,27830,0.0,,,5.0
+42,27852,4829,1636,Active,VL,PRC- Slurry Valves,27825,0.0,,,16.0
+43,27853,4829,1636,Active,VL,PRC- Slurry Valves,27841,0.0,,,2.0
+44,27854,4829,1636,Active,VD,COM- VDS,27834,0.0,,,2.0
+45,27855,4829,1636,Active,FP,COM- Fire Protection,27834,0.0,,,2.0
+46,27856,4829,1636,Active,DO,ENG - Additional Storage Tanks - Daoui,27831,0.0,,,2.0
+47,27857,4829,1636,Active,AC,PRC- Structure Access Upgrades,27832,0.0,,,3.0
+48,27858,4829,1636,Active,TS,Terminal Station,27824,0.0,,,7.0
+49,27859,4829,1636,Active,DO,Daoui,27824,0.0,,,3.0
+50,27860,4829,1636,Active,BA,Beni Amir,27824,0.0,,,3.0
+51,27861,4829,1636,Active,TS,ENG - Additional Storage Tanks -Terminal Station,27831,0.0,,,13.0
+52,27862,4829,1636,Active,VD,CONS - VDS (Video Surveillance System),27823,0.0,,,5.0
+53,27863,4829,1636,Active,TK,PRC- Tanks,27837,0.0,,,26.0
+54,27864,4829,1636,Active,HS,ENG - Additional Storage Tanks - Head Station,27831,0.0,,,13.0
+55,27865,4829,1636,Active,VL,PRC- Slurry Valves,27822,0.0,,,2.0
+56,27866,4829,1636,Active,1,CONS- Potential delay,27822,0.0,,,1.0
+57,27867,4829,1636,Active,EI,PRC- E&I (Planning not approved),27822,0.0,,,14.0
+58,27868,4829,1636,Active,VD,PRC- VDS (Video Surveillance System),27828,0.0,,,1.0
+59,27869,4829,1636,Active,VD,ENG - VDS,27827,0.0,,,1.0
+60,27870,4829,1636,Active,AC,PRC- Structure Access Upgrades,27828,0.0,,,1.0
+61,27871,4829,1636,Active,TK2,CONS- Additional Tanks - Head Station,27836,0.0,,,18.0
+62,27872,4829,1636,Active,00,Engineering (JESA),27829,0.0,,,5.0
+63,27873,4829,1636,Active,UG,EG - Access Upgrade,27827,0.0,,,1.0
+64,27874,4829,1636,Active,FP,PRC- Fire Protection,27832,0.0,,,4.0
+65,27875,4829,1636,Active,VD,PRC- VDS (Video Surveillance System),27832,0.0,,,5.0
+66,27876,4829,1636,Active,TK,PRC- Tanks,27841,0.0,,,19.0
+67,27877,4829,1636,Active,TK3,CONS- Additional Tanks - Beni Amir,27836,0.0,,,26.0
+68,27878,4829,1636,Active,AC,COM - Access Upgrade,27834,0.0,,,2.0
+69,27879,4829,1636,Active,VL,PRC- Slurry Valves,27837,0.0,,,1.0
+70,27880,4829,1636,Active,TK1,CONS- Additional Tanks - Terminal Station,27836,0.0,,,17.0
+71,27881,4829,1636,Active,PM,Silica Line - Mechanical Parts,27844,0.0,,,1.0
+72,27882,4829,1636,Active,BA,ENG - Additional Storage Tanks - Beni Amir,27831,0.0,,,15.0
+73,27883,4829,1636,Active,FP,CONS - Fire Protection,27823,0.0,,,6.0
+74,27884,4829,1636,Active,ER,"DWS Loop Erection, Cx & Start-Up",27843,0.0,,,7.0
+75,27885,4829,1636,Active,PM,PRC- Pumps,27822,0.0,,,4.0
+76,27886,4829,1636,Active,ST,Silica Line - Structural Works,27844,0.0,,,2.0
+77,27887,4829,1636,Active,PP,Silica Line - Piping,27844,0.0,,,3.0
+78,27888,4829,1636,Active,AG,PRC- Agitators,27841,0.0,,,4.0
+79,27889,4829,1636,Active,TS,CONS - Slurry Transfert - Terminal Station,27842,0.0,,,20.0
+80,27890,4829,1636,Active,01,Engineering (STROC),27829,0.0,,,6.0
+81,27891,4829,1636,Active,AG,PRC- Agitators,27837,0.0,,,13.0
+82,27892,4829,1636,Active,AC,CONS - Structure Access,27823,0.0,,,6.0
+83,27893,4829,1636,Active,EI,Silica Line - E&I,27844,0.0,,,2.0
+84,27894,4829,1636,Active,TK,CONS-Daoui Splitter Box,27836,0.0,,,7.0
+85,27895,4829,1636,Active,CV,Silica Line - Civil lWorks,27844,0.0,,,3.0
+86,27896,4829,1636,Active,AG,ENG- Agitator Structure & FDN,27882,0.0,,,7.0
+87,27897,4829,1636,Active,1,ENG - Splitter box,27856,0.0,,,2.0
+88,27898,4829,1636,Active,TK,ENG - Slurry Tanks,27864,0.0,,,4.0
+89,27899,4829,1636,Active,3,Daoui,27876,0.0,,,3.0
+90,27900,4829,1636,Active,AG,ENG - Agitator Structure & FDN,27861,0.0,,,7.0
+91,27901,4829,1636,Active,PP,ENG - Piping,27861,0.0,,,2.0
+92,27902,4829,1636,Active,DL,Potential Issues for Delay,27847,0.0,,,2.0
+93,27903,4829,1636,Active,ST,TS Tanks - Structural Parts,27880,0.0,,,5.0
+94,27904,4829,1636,Active,PP,ENG - Piping,27864,0.0,,,2.0
+95,27905,4829,1636,Active,TK,ENG - Slurry Tanks,27861,0.0,,,4.0
+96,27906,4829,1636,Active,PP,ENG - Piping,27882,0.0,,,2.0
+97,27907,4829,1636,Active,2,Beni Amir,27876,0.0,,,5.0
+98,27908,4829,1636,Active,DL,Potential Issues for Delay,27852,0.0,,,3.0
+99,27909,4829,1636,Active,4,Terminal Station,27876,0.0,,,5.0
+100,27910,4829,1636,Active,EI,TS - E&I,27880,0.0,,,3.0
+101,27911,4829,1636,Active,PP,TS Tanks - Piping,27880,0.0,,,5.0
+102,27912,4829,1636,Active,AG,ENG - Agitator Structure & FDN,27864,0.0,,,7.0
+103,27913,4829,1636,Active,PP,Daoui Splitter Box - Piping,27894,0.0,,,3.0
+104,27914,4829,1636,Active,ST,Daoui Splitter Box - Structural parts,27894,0.0,,,3.0
+105,27915,4829,1636,Active,1,Tanks - Head Station,27876,0.0,,,6.0
+106,27916,4829,1636,Active,CV,BA Tanks - Civil Works,27877,0.0,,,3.0
+107,27917,4829,1636,Active,PP,BA Tanks - Piping,27877,0.0,,,5.0
+108,27918,4829,1636,Active,ST,BA Tanks - Structural Parts,27877,0.0,,,7.0
+109,27919,4829,1636,Active,EI,BA E&I,27877,0.0,,,7.0
+110,27920,4829,1636,Active,AG,BA Agitators,27877,0.0,,,4.0
+111,27921,4829,1636,Active,TK,ENG - Slurry Tanks   (New Tks FDNs),27882,0.0,,,6.0
+112,27922,4829,1636,Active,DL,Potential Issues for Delay,27891,0.0,,,3.0
+113,27923,4829,1636,Active,AG,TS - Agitators,27880,0.0,,,4.0
+114,27924,4829,1636,Active,DL,Potential Issues for Delay TANKS,27863,0.0,,,3.0
+115,27925,4829,1636,Active,1,Potential Delay,27883,0.0,,,1.0
+116,27926,4829,1636,Active,DL,Potential Issues for Delay EI,27846,0.0,,,1.0
+117,27927,4829,1636,Active,AG,HS - Agitators,27871,0.0,,,4.0
+118,27928,4829,1636,Active,EI,HS - E&I,27871,0.0,,,4.0
+119,27929,4829,1636,Active,ST,HS Tanks - Structural part,27871,0.0,,,5.0
+120,27930,4829,1636,Active,PP,HS Tanks - Piping,27871,0.0,,,5.0
+121,27931,4829,1636,Active,PP,CONS- Piping,27889,0.0,,,4.0
+122,27932,4829,1636,Active,EI,CONS- E&I,27889,0.0,,,7.0
+123,27933,4829,1636,Active,CV,CONS-  Civil,27889,0.0,,,3.0
+124,27934,4829,1636,Active,PM,CONS- Pumps,27889,0.0,,,4.0
+125,27935,4829,1636,Active,ST,CONS- Structural,27889,0.0,,,2.0
+126,470971,4829,1636,Active,2,LOF,27810,,,,39.0
+127,1073270,4829,1636,Active,1,Priorité N°1,470971,,,,18.0
+128,1073271,4829,1636,Active,2,Priorité N°2,470971,,,,21.0
